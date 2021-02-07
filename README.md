@@ -1,6 +1,6 @@
 # HorrorProject
-A game I made in 24 hours. Now open source!
+A game I made in 24 hours, just to get myself back into Unity.
 
-Note: Yes, this code is all over the place. Blame sleep deprived me for that one. Some scripts have little to no comments, or have been EXTREMELY hardcoded for specific scenarios.
+A large majority of the code is terrible and poorly commented. Some situations have even been hard-coded, just because it was quicker to do it that way.
 
 Made in Unity 2019.4.12f1
